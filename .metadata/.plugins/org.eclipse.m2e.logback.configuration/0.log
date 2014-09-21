@@ -1,0 +1,4 @@
+2014-09-21 18:08:14,649 [pool-4-thread-1] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://maven.softeu.cz/org/apache/maven/archetypes/softeu-archetype-jsf/maven-metadata.xml
+2014-09-21 18:08:14,649 [pool-4-thread-2] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://repo.maven.apache.org/maven2/org/apache/maven/archetypes/softeu-archetype-jsf/maven-metadata.xml
+2014-09-21 18:08:14,659 [ModalContext] WARN  o.e.m.c.i.embedder.EclipseLogger - Could not transfer metadata org.apache.maven.archetypes:softeu-archetype-jsf/maven-metadata.xml from/to softeu-archetype-jsf-repo (http://maven.softeu.cz/): maven.softeu.cz
+2014-09-21 18:08:14,683 [ModalContext] WARN  o.e.m.c.i.embedder.EclipseLogger - Could not transfer metadata org.apache.maven.archetypes:softeu-archetype-jsf/maven-metadata.xml from/to central (http://repo.maven.apache.org/maven2): repo.maven.apache.org

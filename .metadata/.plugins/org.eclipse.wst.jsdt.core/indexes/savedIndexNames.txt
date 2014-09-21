@@ -1,0 +1,6 @@
+INDEX VERSION 1.3+C:\Users\mrangelm\Documents\WebSeitePixelStreet\.metadata\.plugins\org.eclipse.wst.jsdt.core\indexes
+1051661078.index
+4086053441.index
+3574778169.index
+282864082.index
+1199782417.index
