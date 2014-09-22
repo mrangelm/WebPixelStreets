@@ -19,5 +19,23 @@
 			<attribute name="owner.project.facets" value="jst.jsf"/>
 		</attributes>
 	</classpathentry>
+	<classpathentry kind="lib" path="C:/Users/mrangelm/Documents/WebPixelStreets/trunk/libraries/common-annotations.jar"/>
+	<classpathentry kind="lib" path="C:/Users/mrangelm/Documents/WebPixelStreets/trunk/libraries/commons-beanutils.jar"/>
+	<classpathentry kind="lib" path="C:/Users/mrangelm/Documents/WebPixelStreets/trunk/libraries/commons-collections.jar"/>
+	<classpathentry kind="lib" path="C:/Users/mrangelm/Documents/WebPixelStreets/trunk/libraries/commons-digester.jar"/>
+	<classpathentry kind="lib" path="C:/Users/mrangelm/Documents/WebPixelStreets/trunk/libraries/commons-io-1.4.jar"/>
+	<classpathentry kind="lib" path="C:/Users/mrangelm/Documents/WebPixelStreets/trunk/libraries/commons-logging.jar"/>
+	<classpathentry kind="lib" path="C:/Users/mrangelm/Documents/WebPixelStreets/trunk/libraries/jcaptcha-2.0-alpha-1-SNAPSHOT.jar"/>
+	<classpathentry kind="lib" path="C:/Users/mrangelm/Documents/WebPixelStreets/trunk/libraries/jcaptcha-api-1.0.jar"/>
+	<classpathentry kind="lib" path="C:/Users/mrangelm/Documents/WebPixelStreets/trunk/libraries/jcaptcha-integration-simple-servlet-2.0-alpha-1-SNAPSHOT.jar"/>
+	<classpathentry kind="lib" path="C:/Users/mrangelm/Documents/WebPixelStreets/trunk/libraries/jsf-api.jar"/>
+	<classpathentry kind="lib" path="C:/Users/mrangelm/Documents/WebPixelStreets/trunk/libraries/jsf-facelets.jar"/>
+	<classpathentry kind="lib" path="C:/Users/mrangelm/Documents/WebPixelStreets/trunk/libraries/jsf-impl.jar"/>
+	<classpathentry kind="lib" path="C:/Users/mrangelm/Documents/WebPixelStreets/trunk/libraries/jsf-tlds.jar"/>
+	<classpathentry kind="lib" path="C:/Users/mrangelm/Documents/WebPixelStreets/trunk/libraries/jstl.jar"/>
+	<classpathentry kind="lib" path="C:/Users/mrangelm/Documents/WebPixelStreets/trunk/libraries/log4j-1.2.13.jar"/>
+	<classpathentry kind="lib" path="C:/Users/mrangelm/Documents/WebPixelStreets/trunk/libraries/richfaces-api-3.3.2.SR1.jar"/>
+	<classpathentry kind="lib" path="C:/Users/mrangelm/Documents/WebPixelStreets/trunk/libraries/richfaces-impl-3.3.2.SR1.jar"/>
+	<classpathentry kind="lib" path="C:/Users/mrangelm/Documents/WebPixelStreets/trunk/libraries/richfaces-ui-3.3.2.SR1.jar"/>
 	<classpathentry kind="output" path="build/classes"/>
 </classpath>
